@@ -134,3 +134,5 @@ function renderProducts(arr){
 }
 
 renderProducts(productList);
+
+// Con Element.append() podemos agregar varios nodos y texto mientras que con Element.appendChild() solo podemos agregar un nodo.
